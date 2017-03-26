@@ -1,0 +1,2 @@
+# testproje
+Bu bir denemedir.
